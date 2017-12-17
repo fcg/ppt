@@ -1,3 +1,20 @@
+技术移民的核心是技术工作（Skilled work）；
+确定技术工作的过程是职业定位；
+职业定位综合参考学历、专业、职业及项目特点；
+证明职业的核心资料是推荐信；
+推荐信是否合格依据的是职业分类；
+
+了解具体职业分类特点可以避免望文生义。
+
+ANZSCO 的定位要求对职业的把握更准确：
+
+224711	管理顾问 / management consultant
+224712	组织和方法分析师 / organisation and methods analyst
+224711 Assists organisations to achieve greater efficiency and solve organisational problems.
+224712 Studies organisational structures, methods, systems and procedures.
+
+秘书定位哪个职业？
+
 澳大利亚和新西兰职业分类（职业大全，职业分类大典）
 
 NOC和ANZSCO与技术移民：
@@ -6,10 +23,21 @@ NOC 500 个具体职业，ANZSCO 1014 个具体职业，并不是所有NOC和ANZ
 
 NOC 4位代码，ANZSCO 6为代码，ANZSCO 职业划分比 NOC 更细致。 一个NOC职业可能对应多个ANZCO职业。
 
+AZNSCO 里的9代表其他。99 结尾的职业都是 nec（not elsewhere classified） 职业。
+
+市场和销售的区别
+
+市场组织专业人员
+联络官 1221 行政人员 Administrative officers
+市场 1123 广告，市场，公关
+
+
 目标：可以快速定位职业，不仅通过关键词搜索，更能直接判断职业是否合适。例如加拿大不要定位到技能级别的C或D类职业上。
 
 - 职业定位，如何快速通过职责定位到职业并判断该职业的移民可行性；
 - 掌握职业分类架构：如何更容易的记住这些职业代码；
+- 拿到一个职业代码可以快速判断其移民可行性及可选择移民项目
+- 掌握职业分类系统，更深入了解职业
 
 澳洲可移民职业：
 
