@@ -3,6 +3,8 @@
 `account manager anzsco`
 `0213 noc 2016`
 
+分析职业代码特点，更深入理解职业分类体系。
+
 ANZSCO - flyabroad	NOC - fcgvisa
 135111 首席信息官 （CIO）Chief Information Officer	`0213` - Computer and information systems managers
 135112 ICT项目经理 ICT Project Manager	`0213` - Computer and information systems managers
@@ -30,6 +32,15 @@ ANZSCO - flyabroad	NOC - fcgvisa
 313113 web管理员 Web Administrator	2281 Computer network technicians
 
 总共澳洲移民职业清单有 431 个职业，南澳担保其中 416 个，其中 136 通用列表和 286 补充列表。
+
+飞出国 | NOC 2016 | ANZSCO 2013
+------|-----|-------
+代码 | 4位 | 6位
+Unit数 | 500 | 358
+大类数 | 0-9 10类 | 1-8 8类
+大类划分 | 行业门类 | 技能级别
+子类划分 | 技能级别 | 行业门类
+技能级别 | 0，A，B，C，D | 1-5
 
 ## 如何写好推荐信
 
